@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, weak) IBOutlet UIButton *button;
+
+- (IBAction)showShare:(id)sender;
 
 @end
 

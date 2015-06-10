@@ -14,6 +14,7 @@
 		5D5770541B28FDFD004C6F46 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D5770531B28FDFD004C6F46 /* Images.xcassets */; };
 		5D5770571B28FDFD004C6F46 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D5770551B28FDFD004C6F46 /* LaunchScreen.xib */; };
 		5D5770631B28FDFD004C6F46 /* TestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D5770621B28FDFD004C6F46 /* TestAppTests.m */; };
+		5D57706D1B28FF64004C6F46 /* ShareImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D57706C1B28FF64004C6F46 /* ShareImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		5D57705C1B28FDFD004C6F46 /* TestAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D5770611B28FDFD004C6F46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D5770621B28FDFD004C6F46 /* TestAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppTests.m; sourceTree = "<group>"; };
+		5D57706C1B28FF64004C6F46 /* ShareImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ShareImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				5D57704A1B28FDFD004C6F46 /* AppDelegate.h */,
+				5D57706C1B28FF64004C6F46 /* ShareImage.png */,
 				5D57704B1B28FDFD004C6F46 /* AppDelegate.m */,
 				5D57704D1B28FDFD004C6F46 /* ViewController.h */,
 				5D57704E1B28FDFD004C6F46 /* ViewController.m */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D5770521B28FDFD004C6F46 /* Main.storyboard in Resources */,
+				5D57706D1B28FF64004C6F46 /* ShareImage.png in Resources */,
 				5D5770571B28FDFD004C6F46 /* LaunchScreen.xib in Resources */,
 				5D5770541B28FDFD004C6F46 /* Images.xcassets in Resources */,
 			);
